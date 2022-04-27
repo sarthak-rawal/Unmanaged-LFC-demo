@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+}
+.one{
+    height: 400px;
+    width: 100%;
+    background-color: red;
+    display: inline-block;
+    font-size: 0px;
+}
+.one_child{
+    height: 200px;
+    width: 20%;
+    background:black ;
+    display: inline-block;
+
+}
